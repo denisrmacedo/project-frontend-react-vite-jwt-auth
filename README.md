@@ -1,16 +1,8 @@
-# React Vite - JWT Authentication using Axios interceptors
+# React Vite with JWT Authentication using Axios interceptors
 
 ## Setup
 
-You can make a copy with:
-
 ```
-
-```
-
-npm i
+npm install
 npm run dev
-
-```
-
 ```
