@@ -1,7 +1,7 @@
 import { createAxiosClient } from "./createAxiosClient";
 import { useAuthStore } from "../src/stores/authStore";
 
-const BASE_URL = 'http://localhost:5000/api/v1/'
+const BASE_URL = 'http://localhost:5001/api/v1/'
 const REFRESH_TOKEN_URL = `${BASE_URL}auth/refreshToken`
 
 function getCurrentAccessToken() {
