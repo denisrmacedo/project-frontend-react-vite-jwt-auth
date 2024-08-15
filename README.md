@@ -4,5 +4,22 @@
 
 ```
 npm install
+```
+
+## Lint
+
+```
+
+```
+
+## Test
+
+```
+
+```
+
+## Development
+
+```
 npm run dev
 ```
